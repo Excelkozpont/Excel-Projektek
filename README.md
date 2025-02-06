@@ -1,4 +1,4 @@
-# Excel Projektek - Automatizált Riportok
+# Automatizált Riportok
 
 Ez a projekt egy automatizált Excel kimutatást tartalmaz, amely feltételes formázást és dinamikus diagramokat alkalmazva, segíti az adatelemzést és üzleti döntéshozatalt.
 📊 **Megtekintés itt**: [Katt](https://neddy3-my.sharepoint.com/:x:/g/personal/282744_office365online_co/EZhaVAvk2yZJhAwWfRaEvO4BxoLJAdeDW2qecn2ffIPGZw?e=2fCeTP)
