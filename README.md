@@ -15,7 +15,7 @@ Ez a projekt egy automatizált Excel kimutatást tartalmaz, amely feltételes fo
 3. **Eredmények Megtekintése:** Használd az összesítőt és a diagramot az elemzéshez .
 
 ## Képernyőképek
-![Riport Oldal](IMAGE_LINK_1)
+![Riport Oldal](https://github.com/Excelkozpont/Excel-Projektek/blob/main/kimutat%C3%A1s.png)
 *A riport oldal áttekintése.*
 
 ## Kapcsolat és Visszajelzés
