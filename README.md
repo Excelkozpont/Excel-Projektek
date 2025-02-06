@@ -41,3 +41,6 @@ Az első kisebb egyedi beállítások elvégzésében díjmentesen segítek! Cse
 ## Licenc
 
 🔗 Ez az Excel fájl ingyenesen kipróbálható, de üzleti vagy személyes célra kizárólag vásárlás után használható!Ha érdekel a teljes verzió, vedd fel velem a kapcsolatot az email címen.
+
+## 🔍 Címkék
+#Excel #Automatizálás #ÜzletiElemzés #Riportkészítés #FeltételesFormázás #Adatvizualizáció
