@@ -26,15 +26,15 @@ Szívesen fogadom a visszajelzéseket és javaslatokat! Kérlek, lépj kapcsolat
 
 ## 🔥 Professzionális Excel Riport – Bevezető Ár: 7.500 Ft! 🔥
 📊 Automatizált Excel riport, amely megkönnyíti az üzleti döntéseidet!
-📈 Gyorsan és egyszerűen nyomon követheted a bevételeidet dinamikus kimutatásokkal!
+📈 Gyorsan és egyszerűen nyomon követheted a bevételeidet dinamikus kimutatásokkal!  
 ✅ Mit tud a riport?  
-🔹 Automatikus bevételi kimutatás – Azonnal látod a legfontosabb számokat.
-🔹 Feltételes formázás – Kiemeli a veszteséges és nyereséges napokat.
-🔹 Dinamikus diagramok – Pillanatok alatt átláthatod a bevételeid alakulását
-🔹 Egyszerű  kezelés – Könnyen szerkeszthető, és azonnal működik
-💰 Bevezető ár: Az első 15 vásárlónak csak 7.500 Ft!
-📥 Fizetési módok: Revolut, Skrill, banki átutalás.
-📩 Érdekel? Írj üzenetet az 📧 info@excelkozpont.hu email címre, és küldöm a részleteket!
+🔹 Automatikus bevételi kimutatás – Azonnal látod a legfontosabb számokat.  
+🔹 Feltételes formázás – Kiemeli a veszteséges és nyereséges napokat.  
+🔹 Dinamikus diagramok – Pillanatok alatt átláthatod a bevételeid alakulását  
+🔹 Egyszerű  kezelés – Könnyen szerkeszthető, és azonnal működik  
+💰 Bevezető ár: Az első 15 vásárlónak csak 7.500 Ft!  
+📥 Fizetési módok: Revolut, Skrill, banki átutalás.  
+📩 Érdekel? Írj üzenetet az 📧 info@excelkozpont.hu email címre, és küldöm a részleteket!  
 🎁 RÁADÁS:
 Az első kisebb egyedi beállítások elvégzésében díjmentesen segítek! Cserébe csak egy párszavas visszajelzést kérek a táblázatról.
 
