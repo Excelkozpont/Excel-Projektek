@@ -33,7 +33,10 @@ Szívesen fogadom a visszajelzéseket és javaslatokat! Kérlek, lépj kapcsolat
 🔹 Dinamikus diagramok – Pillanatok alatt átláthatod a bevételeid alakulását  
 🔹 Egyszerű  kezelés – Könnyen szerkeszthető, és azonnal működik  
 💰 Bevezető ár: Az első 15 vásárlónak csak 7.500 Ft!  
-📥 Fizetési módok: Revolut, Skrill, banki átutalás.  
+ 🛒 Fizetési lehetőségek:
+✅ Azonnali vásárlás – Biztonságos fizetés és az Excel fájl azonnali letöltése: (https://payhip.com/b/IwLrM)
+✅ Revolut, Skrill, Banki átutalás – Manuális fizetési opciók (részletek üzenetben)
+
 📩 Érdekel? Írj üzenetet az 📧 info@excelkozpont.hu email címre, és küldöm a részleteket!  
 🎁 RÁADÁS:
 Az első kisebb egyedi beállítások elvégzésében díjmentesen segítek! Cserébe csak egy párszavas visszajelzést kérek a táblázatról.
